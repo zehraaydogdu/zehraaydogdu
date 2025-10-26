@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehraaydogdu&show_icons=true&locale=en" alt="zehraaydogdu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehraaydogdu&" alt="zehraaydogdu" /></p>
+
+
+
+![snake gif](https://github.com/zehraaydogdu/zehraaydogdu/blob/output/github-contribution-grid-snake.gif)
