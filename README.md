@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **C**, **C++**, **Python**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning Machine Learning Ops (MLOps), Transformers, Generative AI and Deep Learning
+
+- 📝 I write articles on [https://medium.com/@zehraaydogdu72](https://medium.com/@zehraaydogdu72)
 
 - 📫 How to reach me **zehraaydogdu74@gmail.com**
 
@@ -14,7 +16,9 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Zehra Aydoğdu"
       height="30" width="40" />
+  <a href="https://medium.com/@zehraaydogdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zehraaydogdu" height="30" width="40" /></a>
   </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehraaydogdu&show_icons=true&locale=en" alt="zehraaydogdu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehraaydogdu&" alt="zehraaydogdu" /></p>
+
 
 
 
