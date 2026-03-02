@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zehra Aydoğdu</h1>
 <h3 align="center">AI and Data Engineer</h3>
 
-- 🔭 I’m currently working on **C** **C++**
+- 🔭 I’m currently working on **C**, **C++**, **Python**
 
 - 🌱 I’m currently learning **Java**
 
